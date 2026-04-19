@@ -15,15 +15,7 @@ build/
 
 # IDE
 .vscode/
-.idea/
-*.swp
-*.swo
-*~
 
-# OS
-Thumbs.db
-Desktop.ini
-.DS_Store
 
 # Debug scripts
 python/debug_pdr.py
